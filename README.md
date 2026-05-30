@@ -6,7 +6,7 @@
 
 41 Claude agent skills drawn from Pope Leo XIV's encyclical on technology, AI, and human dignity — paragraphs §90 through §130. Each paragraph becomes its own skill that prompts ethical reflection when building software or answering questions touching on technology and society.
 
-*"Two loves have built two cities."* — §130
+*"...the most extraordinary scientific progress, the most astounding technical feats and the most amazing economic growth, unless accompanied by authentic moral and social progress, will in the long run go against man.”* — Saint Paul VI, Address on the occasion of the 25th Anniversary of the FAO (16 November 1970)
 
 ## What this is
 
