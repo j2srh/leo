@@ -1,6 +1,6 @@
 # Leo XIV Encyclical — A novelty MCP Server for the Social Doctrine
 
-> **This was made entirely for fun (and in self-aware irony by AI) and as a nice way to break down and read the points the Pope has intended. Don't take it too seriously.**
+> **This was made entirely for fun (and in self-aware irony by AI) as a nice way to break down and read the points the Pope has intended. Don't take it too seriously.**
 
 ---
 
