@@ -1,6 +1,6 @@
 ---
 name: leo-109-social-doctrine-ai-framework
-description: Apply the full Catholic Social Doctrine framework specifically to AI: common good names new monopolies, universal destination of goods means universal access and education, subsidiarity protects community choice, solidarity recognizes hidden workers, and justice must shape design from the outset not just after deployment.
+description: "Apply the full Catholic Social Doctrine framework specifically to AI: common good names new monopolies, universal destination of goods means universal access and education, subsidiarity protects community choice, solidarity recognizes hidden workers, and justice must shape design from the outset not just after deployment."
 ---
 
 # Social Doctrine as a Complete AI Framework

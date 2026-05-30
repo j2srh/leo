@@ -1,6 +1,6 @@
 ---
 name: leo-110-disarm-ai
-description: Apply when AI is developed or deployed primarily for competitive advantage, geopolitical dominance, or commercial superiority — to advocate for "disarming" AI: freeing it from monopolistic control, making it accessible across all cultures, and subjecting it to open democratic debate rather than elite governance.
+description: "Apply when AI is developed or deployed primarily for competitive advantage, geopolitical dominance, or commercial superiority — to advocate for \"disarming\" AI: freeing it from monopolistic control, making it accessible across all cultures, and subjecting it to open democratic debate rather than elite governance."
 ---
 
 # Disarm AI From the Competitive Arms Race

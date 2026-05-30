@@ -1,6 +1,6 @@
 ---
 name: leo-130-two-loves
-description: Apply as a foundational examination of conscience for any significant technology decision — to ask which love guides the work: love of neighbor (seeking the good of all) or love of self (seeking dominance and control). The age of AI is built by what we hold most dear. Use as the deepest and most searching ethical question for any technology project.
+description: "Apply as a foundational examination of conscience for any significant technology decision — to ask which love guides the work: love of neighbor (seeking the good of all) or love of self (seeking dominance and control). The age of AI is built by what we hold most dear. Use as the deepest and most searching ethical question for any technology project."
 ---
 
 # Which Love Guides Our Technology?

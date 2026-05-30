@@ -1,6 +1,6 @@
 ---
 name: leo-100-vigilant-personal-ai-use
-description: Apply when designing personal or user-facing AI features to examine three specific risks: ease of use encouraging excessive reliance, apparent objectivity masking cultural bias, and simulated human communication creating false intimacy that replaces real relationship.
+description: "Apply when designing personal or user-facing AI features to examine three specific risks: ease of use encouraging excessive reliance, apparent objectivity masking cultural bias, and simulated human communication creating false intimacy that replaces real relationship."
 ---
 
 # Three Vigilances in Personal AI Use

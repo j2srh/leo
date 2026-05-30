@@ -1,6 +1,6 @@
 ---
 name: leo-96-social-doctrine-criteria
-description: Apply the six core principles of Catholic Social Doctrine as an ethical framework when evaluating digital infrastructure, algorithms, and AI systems: human dignity, common good, universal destination of goods, subsidiarity, solidarity, and social justice. Use as a comprehensive ethical audit tool.
+description: "Apply the six core principles of Catholic Social Doctrine as an ethical framework when evaluating digital infrastructure, algorithms, and AI systems: human dignity, common good, universal destination of goods, subsidiarity, solidarity, and social justice. Use as a comprehensive ethical audit tool."
 ---
 
 # Six Criteria for Digital Justice
